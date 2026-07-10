@@ -1,0 +1,28 @@
+{
+  "name": "jessicamm-beauty",
+  "version": "1.0.0",
+  "description": "Jéssica Miranda Beauty - Website estático com Vercel Web Analytics",
+  "main": "script.js",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luccamm11/jessicamm-beauty.git"
+  },
+  "keywords": [
+    "beauty",
+    "estetica",
+    "vercel-analytics"
+  ],
+  "author": "Jéssica Miranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luccamm11/jessicamm-beauty/issues"
+  },
+  "homepage": "https://github.com/Luccamm11/jessicamm-beauty#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
